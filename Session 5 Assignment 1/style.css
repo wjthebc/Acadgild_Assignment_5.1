@@ -1,0 +1,24 @@
+body
+  {
+    /*creates yellow and light yellow gradient background*/
+    background: linear-gradient(to top, yellow, lightyellow);
+   }
+
+header
+  {
+    /*determines dementions*/
+    width: 140px;
+    height: 70px;
+    /*adds border*/
+    border:1px solid;
+    /*makes font white*/
+    color: white;
+    /*adds padding*/
+    padding:20px;
+    /*creates rounded borders for header*/
+    border-radius:50%;
+    /*adds background color*/
+    background:blue;
+    /*centers text*/
+    text-align:center;
+  }
